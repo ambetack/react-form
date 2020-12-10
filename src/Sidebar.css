@@ -1,0 +1,12 @@
+.sidebar {
+    height: 500vh;
+    flex:0.2;
+    padding-left:10px;
+    padding-right:10px;
+    color: white;
+
+    background-color: darkblue;
+    height: 100vh;
+    min-width:230px;
+
+}

@@ -1,0 +1,13 @@
+.Nav {
+    position: relative;
+    top:0;
+    width:100;
+    display:flex;
+    justify-content: space-between;
+}
+
+.h2 {
+
+    color:red;
+}
+
